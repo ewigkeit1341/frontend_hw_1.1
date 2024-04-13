@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: rebeccapurple;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.ph {
+    line-height: 30px;
+    }
+    
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    padding-bottom: 30px;
+    border: 2px;
+    border-color: black;
+    }
+.sc {
+    font-weight: bold;
+    color: rgb(43, 43, 193);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.tt {
+  margin-top: 50px;  
+  margin-bottom: 20px;
+
+}
+
+.aaa {
+    width: 30px;
+    height: 30px;
+    padding-right: 20px;
+}
+.red {
+    color: red;
+    font-style: italic;
+}
+.blue {
+    color: blue;
+    text-decoration: underline;
+    font-style: italic;
+}
